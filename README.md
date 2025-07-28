@@ -68,7 +68,7 @@ GitHub项目卡片带悬浮效果
 所有交互功能无需后端支持
 
 灵感来源
-设计灵感来源于故障艺术(Glitch Art)和现代UI设计趋势，特别参考了http://www.jiejoe.com的设计风格。
+设计灵感来源于故障艺术(Glitch Art)和现代UI设计趋势，特别参考了http://www.jiejoe.com
 
 响应式设计
 桌面端：完整展示所有效果
